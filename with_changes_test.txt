@@ -1,0 +1,29 @@
+starting...
+0
+here is the array version:
+Resetting...
+1: worked!! - elise
+0
+here is the array version:
+Resetting...
+does not work -- need to run options
+Hello World
+Hello World
+Hello World!
+Welcome to Juypter Notebooks!!
+whats up
+x = "Hello World"
+z = "whats up"
+print(x)
+y = "!\nWelcome to Juypter Notebooks!!"
+print(x+y)
+print(z)
+
+x = "Hello World"
+z = "whats up"
+print(x)
+y = "!\nWelcome to Juypter Notebooks!!"
+print(x+y)
+print(z)
+
+2: worked!! - elise
