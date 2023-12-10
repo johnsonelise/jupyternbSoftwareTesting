@@ -1,0 +1,146 @@
+./outs/Python_projects', 'server_log_regex.ipynb
+./outs/Ipython-notebook', 'RCI 2.0 Presentation.ipynb
+DEFINE: ./outs/3-activation-function.ipynb :name 'np' is not defined
+./outs/3-activation-function.ipynb
+./outs/Python', 'Fizzbuzz.ipynb
+./outs/python', 'Chapter 01.ipynb
+DEFINE: ./outs/multireturn.ipynb :name 'wraps' is not defined
+./outs/multireturn.ipynb
+DEFINE: ./outs/Polylogarithm.ipynb :name 'np' is not defined
+./outs/Polylogarithm.ipynb
+./outs/helper_sam.ipynb
+./outs/DataAnalyticsLearning', 'Lecture 36 - Mapping.ipynb
+./outs/L1 - Olympics Medal Points.ipynb
+./outs/DW06_GroupBy.ipynb
+./outs/other.ipynb
+./outs/add_mean_median_numpy.ipynb
+./outs/01_Bayes_Theorem.ipynb
+DEFINE: ./outs/p006.ipynb :name 'squaresum' is not defined
+./outs/p006.ipynb
+./outs/Lecture 14 - Series.ipynb
+DEFINE: ./outs/p_solve.ipynb :name 'sqrt' is not defined
+./outs/p_solve.ipynb
+./outs/testpython', 'homework3(1).ipynb
+DEFINE: ./outs/week-3-a-advanced.ipynb :name 'cycle_number' is not defined
+./outs/week-3-a-advanced.ipynb
+./outs/qr-decomposition.ipynb
+./outs/lesson3.ipynb
+./outs/A03a_Z_projection_k01.ipynb
+./outs/hw1.ipynb
+./outs/Jupyter-Notebooks', 'Lecture 10 - Array Transposition.ipynb
+./outs/python', 'Chapter 02-2.ipynb
+./outs/cpw1', 'HI.ipynb
+./outs/simple', 'Untitled5.ipynb
+./outs/Ch28 - A More Realistic Example.ipynb
+./outs/Codility - MinAvgTwoSlice.ipynb
+./outs/python-ml', '30. Scikit-learn tutorial 03 - Hyperparameter Search.ipynb
+./outs/GeneratorCompose.ipynb
+./outs/python', 'unit 4 exercise.ipynb
+DEFINE: ./outs/Euler', 'Problem_12.ipynb :name 'triangleNumber' is not defined
+./outs/Euler', 'Problem_12.ipynb
+DEFINE: ./outs/Ch36 - Designing With Exceptions.ipynb :name 'chars' is not defined
+./outs/Ch36 - Designing With Exceptions.ipynb
+./outs/RunLengthEncoding.ipynb
+DEFINE: ./outs/praca-domowa-2.ipynb :name 'np' is not defined
+./outs/praca-domowa-2.ipynb
+./outs/Divers', 'FormTestrecettes.ipynb
+DEFINE: ./outs/quantization_effects.ipynb :name 'np' is not defined
+./outs/quantization_effects.ipynb
+./outs/polynomial.ipynb
+./outs/Math practice.ipynb
+DEFINE: ./outs/Random', 'Standard Young Tableau.ipynb :name 'np' is not defined
+./outs/Random', 'Standard Young Tableau.ipynb
+DEFINE: ./outs/docstring.ipynb :name 'datetime' is not defined
+./outs/docstring.ipynb
+./outs/fecon235-08-sympy.ipynb
+DEFINE: ./outs/notes-03-18-16.ipynb :name 'np' is not defined
+./outs/notes-03-18-16.ipynb
+./outs/islice.ipynb
+DEFINE: ./outs/IPython-Notebooks', 'Gibbs Free Energy.ipynb :name 'np' is not defined
+./outs/IPython-Notebooks', 'Gibbs Free Energy.ipynb
+./outs/The Most Numbers.ipynb
+./outs/Jupyter-Notebooks', 'Lecture 7 - Creating Arrays.ipynb
+./outs/Day5Homework.ipynb
+./outs/Worse Design 2.ipynb
+./outs/Item12.ipynb
+./outs/matrix-vector.ipynb
+DEFINE: ./outs/math_notebooks', 'Water Chemistry Optimizer.ipynb :name 'np' is not defined
+./outs/math_notebooks', 'Water Chemistry Optimizer.ipynb
+DEFINE: ./outs/sympy_for_mechanics.ipynb :name 'Eq' is not defined
+./outs/sympy_for_mechanics.ipynb
+DEFINE: ./outs/iBeacon', 'Ritangle+Prelim+D.ipynb :name 'xrange' is not defined
+./outs/iBeacon', 'Ritangle+Prelim+D.ipynb
+./outs/DataAnalyticsLearning', 'Lecture 40 - Outliers.ipynb
+./outs/ipython_notebook', 'try_github.ipynb
+DEFINE: ./outs/Lambdas.ipynb :name 'a' is not defined
+./outs/Lambdas.ipynb
+DEFINE: ./outs/Python5', 'Generators_and_Coroutines.ipynb :name 'p' is not defined
+./outs/Python5', 'Generators_and_Coroutines.ipynb
+DEFINE: ./outs/notebooks_examples', 'Optimal_mass_matrix.ipynb :name 'Ms' is not defined
+./outs/notebooks_examples', 'Optimal_mass_matrix.ipynb
+DEFINE: ./outs/Euler', 'Problem_2.ipynb :name 'fibs' is not defined
+./outs/Euler', 'Problem_2.ipynb
+DEFINE: ./outs/downloader.ipynb :name 'urllib' is not defined
+./outs/downloader.ipynb
+./outs/clases_python', 'Clase2.ipynb
+./outs/least_squares.ipynb
+./outs/AoC - Day 4 The Ideal Stocking Stuffer.ipynb
+./outs/EntryPoll_bootcamp_experiments.ipynb
+DEFINE: ./outs/affine', 'Test-AffDist-Stars-Model-Mar2017.ipynb :name 'xCenter' is not defined
+./outs/affine', 'Test-AffDist-Stars-Model-Mar2017.ipynb
+./outs/CodeToy', 'ProjectEuler001.ipynb
+./outs/03_Visual_Psychophysics.ipynb
+DEFINE: ./outs/TAU2016', 'solution3_old.ipynb :name 'bases' is not defined
+./outs/TAU2016', 'solution3_old.ipynb
+DEFINE: ./outs/Notebooks', 'Broder97.ipynb :name 'rv' is not defined
+./outs/Notebooks', 'Broder97.ipynb
+./outs/python', '1228.ipynb
+DEFINE: ./outs/Graphs and plots from Visualization in Python.ipynb :name 'hold' is not defined
+./outs/Graphs and plots from Visualization in Python.ipynb
+./outs/example-template-notebook.ipynb
+./outs/B10409006', '1102.ipynb
+./outs/Fall510', 'TEST1_PYTHON.ipynb
+./outs/da-programming-1', 'week_02.ipynb
+./outs/python', 'chapter3(2).ipynb
+./outs/Index Power.ipynb
+DEFINE: ./outs/five_coord_distances.ipynb :name 'ls' is not defined
+./outs/five_coord_distances.ipynb
+./outs/Assignment06 -- Orbital variations and insolation.ipynb
+./outs/Lover level.ipynb
+./outs/ceteiep_maths101', 'ceteiep_maths101_exercises_set3.ipynb
+./outs/pandas_basic_series.ipynb
+DEFINE: ./outs/14-rekursiva funktioner.ipynb :name 'count_up' is not defined
+./outs/14-rekursiva funktioner.ipynb
+./outs/Programs.ipynb
+DEFINE: ./outs/Stats-week', 'Grubbs_and_Qtest.ipynb :name 'np' is not defined
+./outs/Stats-week', 'Grubbs_and_Qtest.ipynb
+DEFINE: ./outs/mycode', 'Trapezium Rule and Simpsons Rule.ipynb :name 'sqrt' is not defined
+./outs/mycode', 'Trapezium Rule and Simpsons Rule.ipynb
+DEFINE: ./outs/00_notebook_intro.ipynb :name 'Image' is not defined
+./outs/00_notebook_intro.ipynb
+./outs/2015-09-28-OpeningPost.ipynb
+DEFINE: ./outs/notebooks', 'scheduler.ipynb :name 'next_wait_time' is not defined
+./outs/notebooks', 'scheduler.ipynb
+DEFINE: ./outs/InterviewPrograms', 'LinkedIn Coding Challenge.ipynb :name 'createPrefixArray' is not defined
+./outs/InterviewPrograms', 'LinkedIn Coding Challenge.ipynb
+DEFINE: ./outs/Python5', 'Abducted!.ipynb :name 'Composer' is not defined
+./outs/Python5', 'Abducted!.ipynb
+DEFINE: ./outs/Ch26 - OOP The Big Picture.ipynb :name 'C2' is not defined
+./outs/Ch26 - OOP The Big Picture.ipynb
+DEFINE: ./outs/Python5', 'ComposingFunctions.ipynb :name 'types' is not defined
+./outs/Python5', 'ComposingFunctions.ipynb
+DEFINE: ./outs/class04.ipynb :name 'F1' is not defined
+./outs/class04.ipynb
+./outs/Mechanics 1 - Problem 6.ipynb
+./outs/lesson18.ipynb
+./outs/Regularization.ipynb
+DEFINE: ./outs/Ch35 - Exception Objects.ipynb :name 'General' is not defined
+./outs/Ch35 - Exception Objects.ipynb
+./outs/example-template-notebook-out_0_a.ipynb
+./outs/ceteiep_maths101', 'ceteiep_maths101_20161026b.ipynb
+./outs/Hydraflix', 'Final_Code.ipynb
+./outs/bin_edges.ipynb
+DEFINE: ./outs/Auto-Summarization of The Washington Post Articles.ipynb :name 'urllib' is not defined
+./outs/Auto-Summarization of The Washington Post Articles.ipynb
+./outs/py_notes', 'Concatenate DataFrames.ipynb
+./outs/01 Pandas dataframe.ipynb

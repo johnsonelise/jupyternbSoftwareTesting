@@ -1,0 +1,71 @@
+./new_output/00_Week 0 Environment Set Up.ipynb
+./new_output/1NN_vs_RandomForest.ipynb
+./new_output/Apostes segures.ipynb
+./new_output/Bubble Sort.ipynb
+DEFINE: ./new_output/Data_Science_From_Scratch', 'Chapter1_DSFSC.ipynb :name 'number_of_friends' is not defined
+./new_output/Data_Science_From_Scratch', 'Chapter1_DSFSC.ipynb
+./new_output/Deep-Learning', 'connect_four.ipynb
+./new_output/Deep-Learning', 'testing arena.ipynb
+DEFINE: ./new_output/five-weird-python-tricks', 'five-weird-python-tricks.ipynb :name 'insert_num' is not defined
+./new_output/five-weird-python-tricks', 'five-weird-python-tricks.ipynb
+DEFINE: ./new_output/Geodesica_tiempo_Schwarzchild.ipynb :name 'h' is not defined
+./new_output/Geodesica_tiempo_Schwarzchild.ipynb
+./new_output/Getting Around.ipynb
+./new_output/Google-ML-Recipes', '00_Week 0 Environment Set Up.ipynb
+./new_output/Google-ML-Recipes', '01_Week 1 Hello World.ipynb
+./new_output/johanping-lab8', 'Particle.ipynb
+DEFINE: ./new_output/LearningPython', '1st Python.ipynb :name 'np' is not defined
+./new_output/LearningPython', '1st Python.ipynb
+DEFINE: ./new_output/LearningPython', 'polynomial_regression.ipynb :name 'np' is not defined
+./new_output/LearningPython', 'polynomial_regression.ipynb
+./new_output/Machine-Learning-for-Trading', ' 01 -05  Incomplete Data.ipynb
+./new_output/Machine-Learning-for-Trading', '01-02 - Working with multiple stocks.ipynb
+./new_output/Machine-Learning-for-Trading', 'Histograms and scatterplots.ipynb
+./new_output/Machine-Learning-for-Trading', 'Machine Learning for Trading - 01-01.ipynb
+DEFINE: ./new_output/MachineYearning', 'ML_ex01.ipynb :name 'consistent' is not defined
+./new_output/MachineYearning', 'ML_ex01.ipynb
+DEFINE: ./new_output/misc-notebooks', 'Learning From Data - Ch 1.ipynb :name 'np' is not defined
+./new_output/misc-notebooks', 'Learning From Data - Ch 1.ipynb
+DEFINE: ./new_output/MyPython', 'tictactoe.ipynb :name 'pos7' is not defined
+./new_output/MyPython', 'tictactoe.ipynb
+DEFINE: ./new_output/MyPython', 'tictactoe_a.ipynb :name 'pos7' is not defined
+./new_output/MyPython', 'tictactoe_a.ipynb
+./new_output/notebook_test.ipynb
+./new_output/Pandas Intro.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 10 - Array transposition.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 13 - Array input and output.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 14 - Series.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 18 - Drop Entry.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 23 - Missing data.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 26 - JSON with Python .ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 29 Merge.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 30 - Merge on Index.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 32 - Combining DataFrames.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 33 - Reshaping.ipynb
+DEFINE: ./new_output/Pandas-and-data-Analysis', 'Lecture 34 - Pivoting.ipynb :name 'np' is not defined
+./new_output/Pandas-and-data-Analysis', 'Lecture 34 - Pivoting.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 36 - Mappling.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 38 - Renaming Index.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 39 - Binning.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 40 - Outliers.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 41 - Permutations.ipynb
+./new_output/Pandas-and-data-Analysis', 'Lecture 7 creating Array.ipynb
+DEFINE: ./new_output/PhythonSpam', 'classifiers.ipynb :name 'ConvertDictToVect' is not defined
+./new_output/PhythonSpam', 'classifiers.ipynb
+DEFINE: ./new_output/public_notebook', 'pe3 largest prime number .ipynb :name 'getPrime' is not defined
+./new_output/public_notebook', 'pe3 largest prime number .ipynb
+DEFINE: ./new_output/public_notebook', 'pe4- Largest Palindrome.ipynb :name 'palCheck' is not defined
+./new_output/public_notebook', 'pe4- Largest Palindrome.ipynb
+DEFINE: ./new_output/python-oop', 'chapter8-common.ipynb :name 'time' is not defined
+./new_output/python-oop', 'chapter8-common.ipynb
+./new_output/python4DataAnalysis', 'Lecture7-CreatingArrays.ipynb
+DEFINE: ./new_output/Schroedinger', 'Schroedinger_1D.ipynb :name 'np' is not defined
+./new_output/Schroedinger', 'Schroedinger_1D.ipynb
+DEFINE: ./new_output/Schroedinger', 'Schroedinger_2D.ipynb :name 'np' is not defined
+./new_output/Schroedinger', 'Schroedinger_2D.ipynb
+DEFINE: ./new_output/scraping-albatros-film', 'movie.ipynb :name 'HTTPError' is not defined
+./new_output/scraping-albatros-film', 'movie.ipynb
+./new_output/TFIDF.ipynb
+./new_output/The-Data-Incubator', 'Q1.ipynb
+./new_output/udm_py101', 'Datebase.ipynb
+./new_output/Untitled1.ipynb

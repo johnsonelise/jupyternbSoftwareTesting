@@ -1,0 +1,92 @@
+./outs/PN 01 - Numpy - Creating arrays.ipynb
+./outs/pi_approx.ipynb
+./outs/polynomial.ipynb
+./outs/MITx--6.00.1x', 'Problem Set 2.ipynb
+./outs/new_in_version_4_1.ipynb
+./outs/Tipi.ipynb
+./outs/Ch4 - Introducing Python Object Types.ipynb
+./outs/notebooks', 'Rappels_math.ipynb
+./outs/randomforest.ipynb
+./outs/sys_commands.ipynb
+./outs/testpython', 'Ch2-homework.ipynb
+./outs/DFS_Stacking_NBA.ipynb
+./outs/py_part_2_feature_extraction.ipynb
+./outs/DataAnalyticsLearning', 'Lecture 10 - Array Transposition.ipynb
+./outs/Queue and Stack.ipynb
+./outs/DataAnalyticsLearning', 'Lecture 41 - Permutation.ipynb
+./outs/ceteiep_02_cartesian_polar_coordinates.ipynb
+./outs/homework3', 'chapter2 exercise.ipynb
+./outs/MatchedFiltering', 'Presentation.ipynb
+./outs/N_gram.ipynb
+./outs/MultipleLines.ipynb
+./outs/Untitled5.ipynb
+./outs/systems-microbiology-hiv', 'Test with Widgets.ipynb
+./outs/n2903.ipynb
+./outs/ceteiep_maths101', 'ceteiep_maths101_exercises_set3.ipynb
+./outs/intro_to_pandas_exercises.ipynb
+./outs/notebooks', 'dj_recomgenerator.ipynb
+./outs/practice-exercise.ipynb
+./outs/Algorithms', 'gcd - Euclidean Algorithm.ipynb
+./outs/1-Tools_Intro.ipynb
+./outs/MiscPython', 'Untitled.ipynb
+./outs/averaging.ipynb
+./outs/python-stuff', 'Untitled4.ipynb
+./outs/python', '1228.ipynb
+./outs/PyDoodles', 'Custom_Courses.ipynb
+./outs/testpython', 'CH2-------max.ipynb
+./outs/da-programming-1', 'week_07.ipynb
+./outs/pythonToyFEM', 'pyToyFEMderiv.ipynb
+./outs/watershed-logging', 'Untitled.ipynb
+./outs/IA-maths-Jupyter', 'Lecture09.ipynb
+./outs/Numerical_MOOC', 'Assignment3Part1.ipynb
+./outs/python-small-tasks', 'insertion-sort.ipynb
+./outs/JE Lecture 37 - Replace.ipynb
+./outs/CFD_Class', 'TGV_Working.ipynb
+./outs/iutdoua-info_algo2015', '2015-09-17 - TD4 - Les fonctions.ipynb
+./outs/machineLearningWashington', 'Getting started contiued.ipynb
+./outs/Lecture_38_Rename_Index.ipynb
+./outs/DAT19-HW3-Assignment.ipynb
+./outs/Neural-Networks', 'Neural Networks - Fall 2015 - Student_new.ipynb
+./outs/study', 'pandas_lesson_five.ipynb
+./outs/Random secret Santa generator .ipynb
+./outs/Scratch pad.ipynb
+./outs/algorithms', 'LiveRamp.ipynb
+./outs/glob.ipynb
+./outs/DataAnalyticsLearning', 'Lecture 36 - Mapping.ipynb
+./outs/Ch3.1-Markers and line styles.ipynb
+./outs/python-intro', 'Introduction_to_python_day_2_introduction.ipynb
+./outs/chicaca', 'charSort.ipynb
+./outs/worse design 1.ipynb
+./outs/fall2014.ipynb
+./outs/Euler', 'Problem_6.ipynb
+./outs/fizzbuzz.ipynb
+./outs/numericoPython', 'Numeros na base B.ipynb
+./outs/filter().ipynb
+./outs/pandas-snippets', 'queryLargeCsvFiles.ipynb
+./outs/module_3_extras.ipynb
+./outs/visual-white-matter', 'download-data.ipynb
+./outs/QuickRef.ipynb
+./outs/charpter6-checkpoint.ipynb
+./outs/JE Lecture 38 - Rename Indexes.ipynb
+./outs/Jupyter-Notebooks', 'Lecture 7 - Creating Arrays.ipynb
+./outs/numericoPython', 'Exercicio_um.ipynb
+./outs/learning_python', 'test.ipynb
+./outs/02_markdown.ipynb
+./outs/A04a_Mean_Z_projection_k01.ipynb
+./outs/pythontest', 'homework2.ipynb
+./outs/testpython2', '2.ipynb
+./outs/testpython', 'CH3-homework.ipynb
+./outs/docs.ipynb
+./outs/matplotlib-learning', 'mp_class2.ipynb
+./outs/PyNotebooks', 'gen_latex_table.ipynb
+./outs/cpw1', 'HI.ipynb
+./outs/scikit-learn-tutorial', '05 Recap.ipynb
+./outs/OddNotebooks', 'Kunert-Bajraszewska.ipynb
+./outs/A01a_Magnetization_Curves_k01.ipynb
+./outs/JE Lecture 29 - Merge.ipynb
+./outs/3.4 Calculating Both direction and amount from error.ipynb
+./outs/Lecture_42_Groupby_On_DataFrames.ipynb
+./outs/Codility - MaxProductOfThree.ipynb
+./outs/project-euler', 'problem-2-fibonacci-numbers.ipynb
+./outs/python', 'unit 2 part one.ipynb
+./outs/pythontest', 'p.57-60.ipynb

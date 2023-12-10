@@ -1,0 +1,788 @@
+DEFINE: ./outs/(Ri)Fattorizzazioni.ipynb :name 'elemento_in_lista' is not defined
+./outs/(Ri)Fattorizzazioni.ipynb
+./outs/0-hello-universe.ipynb
+./outs/0-intro-python.ipynb
+./outs/0.1.ipynb
+./outs/003 Doing Math in Python.ipynb
+DEFINE: ./outs/00_notebook_intro.ipynb :name 'Image' is not defined
+./outs/00_notebook_intro.ipynb
+DEFINE: ./outs/01 - Comprehensions and Sets.ipynb :name 'math' is not defined
+./outs/01 - Comprehensions and Sets.ipynb
+DEFINE: ./outs/01 - Regular Expressions.ipynb :name 're' is not defined
+./outs/01 - Regular Expressions.ipynb
+./outs/01 Pandas dataframe.ipynb
+./outs/01-01-naver-search-ranking.ipynb
+./outs/01-02-naver-blog-posts.ipynb
+./outs/01-Imports.ipynb
+./outs/011 MM Random Quiz Generator.ipynb
+DEFINE: ./outs/013_Large Sum.ipynb :name 'csv' is not defined
+./outs/013_Large Sum.ipynb
+./outs/014 String Formatting and Running .py Files.ipynb
+DEFINE: ./outs/015_Lattice Paths.ipynb :name 'factorial' is not defined
+./outs/015_Lattice Paths.ipynb
+DEFINE: ./outs/017_Number Letter Counts.ipynb :name 'letter_count' is not defined
+./outs/017_Number Letter Counts.ipynb
+DEFINE: ./outs/019_Counting Sundays.ipynb :name 'datetime' is not defined
+./outs/019_Counting Sundays.ipynb
+./outs/01_Bayes_Theorem.ipynb
+./outs/01_Python.ipynb
+./outs/02 basic types.ipynb
+DEFINE: ./outs/02-05-Change.ipynb :name 'change2' is not defined
+./outs/02-05-Change.ipynb
+./outs/02-dimensionality-reduction.ipynb
+./outs/02-einsum.ipynb
+./outs/02-intro-python-live.ipynb
+./outs/02. Study Site and General Methods.ipynb
+./outs/020_Factorial Digit Sum.ipynb
+DEFINE: ./outs/021_Amicable Numbers.ipynb :name 'd' is not defined
+./outs/021_Amicable Numbers.ipynb
+./outs/024_Lexicographic Permutations.ipynb
+./outs/025_1000-Digit Fibonacci Number.ipynb
+DEFINE: ./outs/026_Reciprocal Cycles.ipynb :name 'primes_below_n' is not defined
+./outs/026_Reciprocal Cycles.ipynb
+DEFINE: ./outs/027_Quadratic Primes.ipynb :name 'is_prime' is not defined
+./outs/027_Quadratic Primes.ipynb
+./outs/028_Number Spiral Diagonals.ipynb
+./outs/029_Distinct Powers.ipynb
+./outs/02_Front Tracking(other).ipynb
+./outs/02_inclass_python.ipynb
+./outs/02_markdown.ipynb
+DEFINE: ./outs/02_perceptron.ipynb :name 'np' is not defined
+./outs/02_perceptron.ipynb
+DEFINE: ./outs/02_Scraping.ipynb :name 'requests' is not defined
+./outs/02_Scraping.ipynb
+DEFINE: ./outs/02_Strings.ipynb :name 'string' is not defined
+./outs/02_Strings.ipynb
+./outs/03-cov.ipynb
+./outs/03-exceptions.ipynb
+./outs/03-singular-value-decomposition.ipynb
+./outs/030_Digit Fifth Powers.ipynb
+./outs/031_Coin Sums.ipynb
+DEFINE: ./outs/032_Pandigital Products.ipynb :name 'is_pandigital' is not defined
+./outs/032_Pandigital Products.ipynb
+DEFINE: ./outs/033_Digit Cancelling Fractions.ipynb :name 'Fraction' is not defined
+./outs/033_Digit Cancelling Fractions.ipynb
+DEFINE: ./outs/035_Circular Primes.ipynb :name 'primes_below_n' is not defined
+./outs/035_Circular Primes.ipynb
+DEFINE: ./outs/036_Double-Base Palindromes.ipynb :name 'palindromes_base10' is not defined
+./outs/036_Double-Base Palindromes.ipynb
+DEFINE: ./outs/037_Truncatable Primes.ipynb :name 'primes_below_n' is not defined
+./outs/037_Truncatable Primes.ipynb
+DEFINE: ./outs/038_Pandigital Multiples.ipynb :name 'number_concat' is not defined
+./outs/038_Pandigital Multiples.ipynb
+DEFINE: ./outs/039_Integer Right Triangles.ipynb :name 'relatively_prime_generator' is not defined
+./outs/039_Integer Right Triangles.ipynb
+./outs/03_data_model_4_special_methods_9_container_types.ipynb
+./outs/03_data_model_4_special_methods~10_sequence_types.ipynb
+DEFINE: ./outs/03_distribute_BasicAlgorithmsLab.ipynb :name 'fib_recursive' is not defined
+./outs/03_distribute_BasicAlgorithmsLab.ipynb
+./outs/03_inclass_matplotlib.ipynb
+./outs/03_Visual_Psychophysics.ipynb
+./outs/04-JSON.ipynb
+./outs/04-kmeans.ipynb
+DEFINE: ./outs/040_Champernowne_s Constant.ipynb :name 'champerknowne_constant' is not defined
+./outs/040_Champernowne_s Constant.ipynb
+DEFINE: ./outs/041_Pandigital Primes.ipynb :name 'primes_below_n' is not defined
+./outs/041_Pandigital Primes.ipynb
+DEFINE: ./outs/046_Goldbach_s Other Conjecture.ipynb :name 'is_prime' is not defined
+./outs/046_Goldbach_s Other Conjecture.ipynb
+DEFINE: ./outs/048_Self Powers.ipynb :name 'self_powers' is not defined
+./outs/048_Self Powers.ipynb
+DEFINE: ./outs/049_Prime Permutations.ipynb :name 'primes_below_n' is not defined
+./outs/049_Prime Permutations.ipynb
+./outs/05-mixture-models-and-em.ipynb
+DEFINE: ./outs/05_errors.ipynb :name 'math' is not defined
+./outs/05_errors.ipynb
+./outs/05_errors_in_algorithms.ipynb
+./outs/05_Neural_Network.ipynb
+./outs/05_pandas_homework_imdb.ipynb
+./outs/06 - Lesson.ipynb
+./outs/06PythonMyScripts_, _L004.ipynb
+./outs/06PythonMyScripts_, _L007_CreatingArrays.ipynb
+./outs/06PythonMyScripts_, _L009_IndexingArrays.ipynb
+./outs/06PythonMyScripts_, _L010_ArrayTransposition.ipynb
+./outs/06PythonMyScripts_, _L011_UniversalArrayFunctions.ipynb
+./outs/06PythonMyScripts_, _L013_Arrayinputoutput.ipynb
+./outs/06PythonMyScripts_, _L014_Series.ipynb
+./outs/06PythonMyScripts_, _L018_DropEntry.ipynb
+./outs/06PythonMyScripts_, _L023_MissingData.ipynb
+./outs/06PythonMyScripts_, _L026_JSONWithPython.ipynb
+./outs/06PythonMyScripts_, _L029_Merge.ipynb
+./outs/06PythonMyScripts_, _L030_MergeOnIndex.ipynb
+./outs/06PythonMyScripts_, _L031_Concatenate.ipynb
+./outs/06PythonMyScripts_, _L032_CombineDataFrames.ipynb
+./outs/06PythonMyScripts_, _L033_Reshaping.ipynb
+./outs/06PythonMyScripts_, _L036_Mapping.ipynb
+./outs/06PythonMyScripts_, _L037_Replace.ipynb
+./outs/06PythonMyScripts_, _L038_RenameIndex.ipynb
+./outs/06PythonMyScripts_, _L039_Binning.ipynb
+./outs/06PythonMyScripts_, _L041_Permutation.ipynb
+./outs/06_LinearAlgebra.ipynb
+./outs/07 - Lesson.ipynb
+./outs/07-Splats.ipynb
+./outs/08 - Testing Classes.ipynb
+./outs/08_SequencesLab.ipynb
+DEFINE: ./outs/09 - Generators and Named Tuples.ipynb :name 'file_contents' is not defined
+./outs/09 - Generators and Named Tuples.ipynb
+./outs/09-TheoryAndPractice.ipynb
+./outs/09_e_log_examples.ipynb
+./outs/09_titanic_logistic_regression_exercise.ipynb
+./outs/0_prerequisite.ipynb
+./outs/1-matplotlib.ipynb
+./outs/1-numpy.ipynb
+./outs/1-Tools_Intro.ipynb
+./outs/1. Basics.ipynb
+./outs/1. First Steps - Start here if new to Jupyter Notebooks.ipynb
+./outs/1.01_StringBasics.ipynb
+./outs/1.02_ManipulatingDNAStrings.ipynb
+./outs/10-slumptal.ipynb
+./outs/12.02-series-in-pandas.ipynb
+DEFINE: ./outs/12_distribute_itgen_lab.ipynb :name 'count' is not defined
+./outs/12_distribute_itgen_lab.ipynb
+DEFINE: ./outs/12_Step_9.ipynb :name 'pyplot' is not defined
+./outs/12_Step_9.ipynb
+DEFINE: ./outs/14-rekursiva funktioner.ipynb :name 'count_up' is not defined
+./outs/14-rekursiva funktioner.ipynb
+DEFINE: ./outs/15-funktioner-mm.ipynb :name 'is_prime' is not defined
+./outs/15-funktioner-mm.ipynb
+DEFINE: ./outs/16_01_content.ipynb :name 'movie_matrix' is not defined
+./outs/16_01_content.ipynb
+DEFINE: ./outs/18--des-gas-station-solns.ipynb :name 'heappush' is not defined
+./outs/18--des-gas-station-solns.ipynb
+DEFINE: ./outs/18--des-gas-station_ex.ipynb :name 'heappush' is not defined
+./outs/18--des-gas-station_ex.ipynb
+DEFINE: ./outs/18-sokning.ipynb :name 'powers' is not defined
+./outs/18-sokning.ipynb
+DEFINE: ./outs/19--pseudorandom-lcg-solns.ipynb :name 'log' is not defined
+./outs/19--pseudorandom-lcg-solns.ipynb
+./outs/19-sortering.ipynb
+DEFINE: ./outs/19Nov_doubleremov_analysis.ipynb :name 'ls' is not defined
+./outs/19Nov_doubleremov_analysis.ipynb
+./outs/1st-repo_, _evenNumbers.ipynb
+DEFINE: ./outs/2-perceptron-basic.ipynb :name 'np' is not defined
+./outs/2-perceptron-basic.ipynb
+DEFINE: ./outs/2.02_SubstringIndex.ipynb :name 'bisect' is not defined
+./outs/2.02_SubstringIndex.ipynb
+./outs/2015-09-28-OpeningPost.ipynb
+./outs/2015-algo-notes_, _2015-10-07 Chaînes de caractères.ipynb
+./outs/2015-algo-notes_, _2015-10-16 Chaînes de caractères (2).ipynb
+DEFINE: ./outs/2015-algo-notes_, _2015-10-19 Fonctions.ipynb :name 'contient_caractère' is not defined
+./outs/2015-algo-notes_, _2015-10-19 Fonctions.ipynb
+DEFINE: ./outs/2015-algo-notes_, _2015-11-16 Complexité des fonctions - Tableaux.ipynb :name 'decompresse_atome' is not defined
+./outs/2015-algo-notes_, _2015-11-16 Complexité des fonctions - Tableaux.ipynb
+DEFINE: ./outs/2015-algo-notes_, _2015-12-02 Tris.ipynb :name 'min_tab' is not defined
+./outs/2015-algo-notes_, _2015-12-02 Tris.ipynb
+DEFINE: ./outs/2015-algo-notes_, _2015-12-16 Tris (suite).ipynb :name 'insere_valeur' is not defined
+./outs/2015-algo-notes_, _2015-12-16 Tris (suite).ipynb
+./outs/2015Mar09_JupyterDemo_, _my.github.demo.ipynb
+./outs/2016-03-06-The-Zen-of-Python.ipynb
+./outs/2016-03-07-iterator-and-generator.ipynb
+./outs/2016-03-08-Functional-Programming-in-Python.ipynb
+./outs/2016-03-09-List-Comprehension.ipynb
+DEFINE: ./outs/2016-03-17.ipynb :name 'encrypt' is not defined
+./outs/2016-03-17.ipynb
+./outs/2016-03-18-String-Format.ipynb
+DEFINE: ./outs/2016-03-21-Try-else.ipynb :name 'randrange' is not defined
+./outs/2016-03-21-Try-else.ipynb
+./outs/2016-03-22-Shallow-and-Deep-Copy.ipynb
+DEFINE: ./outs/2016-03-24-Sort-and-Sorted.ipynb :name 'randrange' is not defined
+./outs/2016-03-24-Sort-and-Sorted.ipynb
+DEFINE: ./outs/2016-03-25-Decorator-and-functools.ipynb :name 'time' is not defined
+./outs/2016-03-25-Decorator-and-functools.ipynb
+./outs/2016-03-28-Heap-and-Queue.ipynb
+DEFINE: ./outs/2016-04-07-Thread-vs-Coroutine-i.ipynb :name '_sum' is not defined
+./outs/2016-04-07-Thread-vs-Coroutine-i.ipynb
+DEFINE: ./outs/2016-04-08-Descriptor.ipynb :name 'Str' is not defined
+./outs/2016-04-08-Descriptor.ipynb
+./outs/2016-04-13-Iterator-Tools.ipynb
+./outs/2016-04-30-Enum.ipynb
+DEFINE: ./outs/2016-05-01-Class-and-Metaclass-i.ipynb :name 'who' is not defined
+./outs/2016-05-01-Class-and-Metaclass-i.ipynb
+DEFINE: ./outs/2016-05-02-Class-and-Metaclass-ii.ipynb :name '_EnumDict' is not defined
+./outs/2016-05-02-Class-and-Metaclass-ii.ipynb
+./outs/2016-05-11-Floating-Point-Arithmetic.ipynb
+./outs/2016-testing-ipynb-demo_, _github-demo.ipynb
+./outs/20160316 Seminar.ipynb
+DEFINE: ./outs/20160326_Neuron.ipynb :name 'np' is not defined
+./outs/20160326_Neuron.ipynb
+DEFINE: ./outs/20160409_learning.ipynb :name 'X' is not defined
+./outs/20160409_learning.ipynb
+./outs/2016MCM-SourceCode_, _Country Point.ipynb
+./outs/2016MCM-SourceCode_, _Matplotlib Get Started.ipynb
+./outs/2016MCM-SourceCode_, _Numpy Get Started.ipynb
+DEFINE: ./outs/2017_05_04_Beginners_Hour.ipynb :name 'people' is not defined
+./outs/2017_05_04_Beginners_Hour.ipynb
+DEFINE: ./outs/3-2-numerik.ipynb :name 'sqrt' is not defined
+./outs/3-2-numerik.ipynb
+DEFINE: ./outs/3-activation-function.ipynb :name 'np' is not defined
+./outs/3-activation-function.ipynb
+DEFINE: ./outs/3-network.ipynb :name 'np' is not defined
+./outs/3-network.ipynb
+./outs/3-pep465.ipynb
+./outs/3-practice-thinking-with-scans.ipynb
+DEFINE: ./outs/3. Python Basics.ipynb :name 'math' is not defined
+./outs/3. Python Basics.ipynb
+DEFINE: ./outs/3.02_GlobalAlignment.ipynb :name 'score' is not defined
+./outs/3.02_GlobalAlignment.ipynb
+./outs/3.03_FindingOverlaps.ipynb
+DEFINE: ./outs/3.04_FindingAllOverlaps.ipynb :name 'permutations' is not defined
+./outs/3.04_FindingAllOverlaps.ipynb
+./outs/3.1 What is a Neural Network.ipynb
+./outs/3.2 Does the network make accurate predictions.ipynb
+./outs/3.3 What the Simplest Form of Neural Network Learning.ipynb
+./outs/3.4 Calculating Both direction and amount from error.ipynb
+./outs/3.5 Alpha In Code.ipynb
+DEFINE: ./outs/4-gradient-descent.ipynb :name 'np' is not defined
+./outs/4-gradient-descent.ipynb
+DEFINE: ./outs/4-practice-ordering-tree.ipynb :name 'build_tree' is not defined
+./outs/4-practice-ordering-tree.ipynb
+DEFINE: ./outs/4.01_ShortestCommonSuperstring.ipynb :name 'itertools' is not defined
+./outs/4.01_ShortestCommonSuperstring.ipynb
+DEFINE: ./outs/4.02_GreedySCS.ipynb :name 'pick_maximal_overlap' is not defined
+./outs/4.02_GreedySCS.ipynb
+./outs/4.1 Putting it all together in Python (polished version).ipynb
+./outs/4.2 Learning the whole dataset.ipynb
+./outs/5 Let_s Watch Several Steps of Learning.ipynb
+./outs/6 N-grams.ipynb
+./outs/6. Point cloud generation.ipynb
+./outs/6.2 Built-in Standard Data Types - Numbers.ipynb
+./outs/6.3 Built-in Standard Data Types - Strings.ipynb
+./outs/6.4 Built-in Standard Data Types - Lists .ipynb
+./outs/6.5 Built-in Standard Data Types - Tuples.ipynb
+DEFINE: ./outs/7 - Filtering Irregular Data.ipynb :name 'pd' is not defined
+./outs/7 - Filtering Irregular Data.ipynb
+./outs/7. Loops and Iteration.ipynb
+./outs/A Google of Quotes.ipynb
+./outs/A01a_Magnetization_Curves_k01.ipynb
+./outs/A02a_Tc_vs_d_k01.ipynb
+./outs/A03a_Z_projection_k01.ipynb
+./outs/A04a_Mean_Z_projection_k01.ipynb
+./outs/a575_, _nov16.ipynb
+DEFINE: ./outs/aaste_, _Sack4.ipynb :name 'cos' is not defined
+./outs/aaste_, _Sack4.ipynb
+DEFINE: ./outs/Abschluss.ipynb :name 'GameOfLife' is not defined
+./outs/Abschluss.ipynb
+DEFINE: ./outs/Act10.ipynb :name 'np' is not defined
+./outs/Act10.ipynb
+./outs/Act9.ipynb
+./outs/add_mean_median_numpy.ipynb
+DEFINE: ./outs/adhoc_, _algo_2.ipynb :name 'set_pivot' is not defined
+./outs/adhoc_, _algo_2.ipynb
+./outs/ADRC-Equation-Calculator_, _ADRC equations.ipynb
+./outs/Advanced Dictionaries.ipynb
+DEFINE: ./outs/Advanced Functions Test .ipynb :name 'reduce' is not defined
+./outs/Advanced Functions Test .ipynb
+./outs/Advanced Sets.ipynb
+DEFINE: ./outs/Advanced-Solvers Solutions.ipynb :name 'solveset' is not defined
+./outs/Advanced-Solvers Solutions.ipynb
+./outs/advanced_python_, _Itertools Note.ipynb
+./outs/advent-of-code-15_, _advent04.ipynb
+./outs/adventofcode_, _advent10.ipynb
+./outs/adventofcode_, _advent20.ipynb
+DEFINE: ./outs/adventofcode_, _advent21.ipynb :name 'ind' is not defined
+./outs/adventofcode_, _advent21.ipynb
+./outs/adventofcode_, _advent3.ipynb
+./outs/adventofcode_pycast_, _Advent of Code Day 1.ipynb
+DEFINE: ./outs/affine_, _Test-AffDist-Stars-Model-Mar2017.ipynb :name 'xCenter' is not defined
+./outs/affine_, _Test-AffDist-Stars-Model-Mar2017.ipynb
+./outs/Ag-Finance-Notebook-2.ipynb
+DEFINE: ./outs/agg_function_practice.ipynb :name 'pd' is not defined
+./outs/agg_function_practice.ipynb
+./outs/Agribusiness-Management-Notebook-1.ipynb
+DEFINE: ./outs/alberto_polo.ipynb :name 'supply' is not defined
+./outs/alberto_polo.ipynb
+DEFINE: ./outs/Algorithms _ Data structures.ipynb :name 'inorder_walk' is not defined
+./outs/Algorithms _ Data structures.ipynb
+DEFINE: ./outs/algorithms_, _G2G.ipynb :name 'found' is not defined
+./outs/algorithms_, _G2G.ipynb
+./outs/Algorithms_, _gcd - Euclidean Algorithm.ipynb
+./outs/algorithms_, _LiveRamp.ipynb
+DEFINE: ./outs/Algorithms_, _Sorting_Algorithms.ipynb :name 'mergeSort' is not defined
+./outs/Algorithms_, _Sorting_Algorithms.ipynb
+DEFINE: ./outs/Algorithm_Exercises_, _Chapter 4 - Sorting and Searching.ipynb :name 'partial_subsets' is not defined
+./outs/Algorithm_Exercises_, _Chapter 4 - Sorting and Searching.ipynb
+./outs/Algorithm_Exercises_, _GitHub Rendering Issue.ipynb
+./outs/All and Any.ipynb
+./outs/All() and any() .ipynb
+./outs/alva_machinery_event_bcell-Copy1.ipynb
+./outs/alva_machinery_event_bcell.ipynb
+./outs/alva_machinery_event_bcell_mutation.ipynb
+./outs/alva_machinery_event_bcell_nonvaccine.ipynb
+./outs/alva_machinery_event_OAS_new-Copy1.ipynb
+./outs/alva_machinery_event_OAS_new-Copy2.ipynb
+./outs/alva_machinery_event_OAS_new.ipynb
+./outs/alva_machinery_VBMG.ipynb
+./outs/American Put Options.ipynb
+DEFINE: ./outs/anacondalearning_, _programming_test_april_2016.ipynb :name 'tempfile' is not defined
+./outs/anacondalearning_, _programming_test_april_2016.ipynb
+DEFINE: ./outs/AnakinShieh.github.io_, _Perceptron.ipynb :name 'np' is not defined
+./outs/AnakinShieh.github.io_, _Perceptron.ipynb
+DEFINE: ./outs/Analytical.ipynb :name 'np' is not defined
+./outs/Analytical.ipynb
+DEFINE: ./outs/AoC - Day 3 Perfectly Spherical Houses in a Vacuum - star 1.ipynb :name 'a' is not defined
+./outs/AoC - Day 3 Perfectly Spherical Houses in a Vacuum - star 1.ipynb
+DEFINE: ./outs/AoC - Day 3 Perfectly Spherical Houses in a Vacuum - star 2.ipynb :name 'a' is not defined
+./outs/AoC - Day 3 Perfectly Spherical Houses in a Vacuum - star 2.ipynb
+./outs/AoC - Day 4 The Ideal Stocking Stuffer.ipynb
+DEFINE: ./outs/API-ideas-ClusterJobs.ipynb :name 'Maxfilter' is not defined
+./outs/API-ideas-ClusterJobs.ipynb
+./outs/api_fec.ipynb
+./outs/arcomputationalphotography_, _Notes_Feb9.ipynb
+DEFINE: ./outs/args_and_kwargs.ipynb :name 'second_function' is not defined
+./outs/args_and_kwargs.ipynb
+DEFINE: ./outs/arnav_sood.ipynb :name 'exp' is not defined
+./outs/arnav_sood.ipynb
+./outs/Array Input and Output.ipynb
+./outs/Array.ipynb
+DEFINE: ./outs/articles_, _trading_sim.ipynb :name 'np' is not defined
+./outs/articles_, _trading_sim.ipynb
+DEFINE: ./outs/ashdownloader.ipynb :name 'urllib' is not defined
+./outs/ashdownloader.ipynb
+./outs/ASPC3115_, _Die Roll.ipynb
+./outs/Assignment+4 (1).ipynb
+./outs/Assignment+4.ipynb
+./outs/Assignment06 -- Orbital variations and insolation.ipynb
+DEFINE: ./outs/Assignment8.ipynb :name 'tens' is not defined
+./outs/Assignment8.ipynb
+DEFINE: ./outs/Assignment9.ipynb :name 'newcursion' is not defined
+./outs/Assignment9.ipynb
+./outs/Assignments_, _DV04-Assignment-01.ipynb
+./outs/Assignments_, _DV04-Assignment-02.ipynb
+DEFINE: ./outs/association_analysis_, _apriori.ipynb :name 'createC1' is not defined
+./outs/association_analysis_, _apriori.ipynb
+./outs/AttrTagginAnalyse_, _Method_Remove_Duplicate_Stopwords.ipynb
+./outs/Aufgabe 1 - Stack.ipynb
+DEFINE: ./outs/Aufgabe 2 - Queue.ipynb :name 'inbox' is not defined
+./outs/Aufgabe 2 - Queue.ipynb
+DEFINE: ./outs/Aufgabe_4.1.ipynb :name 'monome' is not defined
+./outs/Aufgabe_4.1.ipynb
+./outs/Automate the Boring Stuff - Chapter 4 Review.ipynb
+./outs/automating-format-identification.ipynb
+./outs/average_wordlength.ipynb
+./outs/averaging.ipynb
+./outs/awaken your home.ipynb
+./outs/B10409006_, _1026-2.ipynb
+./outs/B10409006_, _1026.ipynb
+./outs/B10409006_, _1102.ipynb
+./outs/B10409006_, _ch4_homework.ipynb
+./outs/B10409006_, _python.ipynb
+./outs/B10409014_, _news and novel.ipynb
+./outs/B10409022_, _chapter2_19-43.ipynb
+./outs/B10409022_, _chapter3_57-65.ipynb
+./outs/B10409022_, _chapter3_todolist.ipynb
+DEFINE: ./outs/B10409022_, _chapter4_83-92.ipynb :name 'cols' is not defined
+./outs/B10409022_, _chapter4_83-92.ipynb
+DEFINE: ./outs/balint_szoke.ipynb :name 'np' is not defined
+./outs/balint_szoke.ipynb
+./outs/balint_szoke_projection.ipynb
+./outs/basic-python-for-researcher_, _Tutorial 1 - Mathematical Operation.ipynb
+DEFINE: ./outs/BasicVectorOps.ipynb :name 'math' is not defined
+./outs/BasicVectorOps.ipynb
+DEFINE: ./outs/Bayesian Linear Regression.ipynb :name 'np' is not defined
+./outs/Bayesian Linear Regression.ipynb
+DEFINE: ./outs/bda_, _Entropy-Based Discretization.ipynb :name 'log' is not defined
+./outs/bda_, _Entropy-Based Discretization.ipynb
+DEFINE: ./outs/Beautiful_Soup.ipynb :name 'HTTPError' is not defined
+./outs/Beautiful_Soup.ipynb
+DEFINE: ./outs/bernoulli.ipynb :name 'bernoulli' is not defined
+./outs/bernoulli.ipynb
+DEFINE: ./outs/BernoulliEM.ipynb :name 'classes' is not defined
+./outs/BernoulliEM.ipynb
+DEFINE: ./outs/Big Data Assignment 1.ipynb :name 'find_min' is not defined
+./outs/Big Data Assignment 1.ipynb
+DEFINE: ./outs/BigDataEcoSystem_, _MakeDataSet.ipynb :name 'gen_Tsignal' is not defined
+./outs/BigDataEcoSystem_, _MakeDataSet.ipynb
+DEFINE: ./outs/BigData_, _Lab 5 - People in a Room.ipynb :name 'loadDataset' is not defined
+./outs/BigData_, _Lab 5 - People in a Room.ipynb
+DEFINE: ./outs/Binary Search Tree.ipynb :name 'Node' is not defined
+./outs/Binary Search Tree.ipynb
+./outs/BinarySearch.ipynb
+DEFINE: ./outs/binder_, _DisturbingFunction.ipynb :name 'math' is not defined
+./outs/binder_, _DisturbingFunction.ipynb
+./outs/bin_edges.ipynb
+./outs/bio204-notebooks_, _Mathematical-Notation-Sums-and-Products.ipynb
+DEFINE: ./outs/BioinformaticsAntibioticsModule_, _PerformanceBenchmarkingforPythonCode.ipynb :name 'math' is not defined
+./outs/BioinformaticsAntibioticsModule_, _PerformanceBenchmarkingforPythonCode.ipynb
+./outs/Biol302_, _homework05.ipynb
+DEFINE: ./outs/Biol302_, _In-Class Assignment 2.ipynb :name 'cz_order' is not defined
+./outs/Biol302_, _In-Class Assignment 2.ipynb
+DEFINE: ./outs/Biol302_, _In-Class Assignment 4.ipynb :name 'read_fasta_file' is not defined
+./outs/Biol302_, _In-Class Assignment 4.ipynb
+DEFINE: ./outs/Biol302_, _In-class Assignment 5.ipynb :name 'chunk' is not defined
+./outs/Biol302_, _In-class Assignment 5.ipynb
+DEFINE: ./outs/Biol302_, _March8ConcordanceDemo.ipynb :name 'string' is not defined
+./outs/Biol302_, _March8ConcordanceDemo.ipynb
+./outs/Biol302_, _Untitled.ipynb
+./outs/bisect.ipynb
+./outs/Bit wise operations.ipynb
+./outs/bits.ipynb
+./outs/blog-notebooks_, _adashof.ipynb
+DEFINE: ./outs/blog_, _singledispatch_notes.ipynb :name 'list_len' is not defined
+./outs/blog_, _singledispatch_notes.ipynb
+./outs/Bonus_DataScraping.ipynb
+./outs/bookmarks_, _Continuous Delivery.ipynb
+./outs/bookmarks_, _Networking.ipynb
+./outs/Boolen_arrays.ipynb
+./outs/bootcamp_test.ipynb
+DEFINE: ./outs/bootstrap-2d-Python_, _Auxiliary_classes.ipynb :name 'Rational' is not defined
+./outs/bootstrap-2d-Python_, _Auxiliary_classes.ipynb
+./outs/build_model_IPNB.ipynb
+DEFINE: ./outs/CaesarCipher.ipynb :name 'string' is not defined
+./outs/CaesarCipher.ipynb
+./outs/calculate Z.ipynb
+DEFINE: ./outs/calculating_tangent_line.ipynb :name 'f' is not defined
+./outs/calculating_tangent_line.ipynb
+./outs/callenge_config.ipynb
+./outs/Car Weights.ipynb
+DEFINE: ./outs/Carlos_Lizama.ipynb :name 'demand' is not defined
+./outs/Carlos_Lizama.ipynb
+./outs/Carpentry_notebook.ipynb
+./outs/cartodb_emissions.ipynb
+./outs/cartodb_oda.ipynb
+./outs/cartodb_projections.ipynb
+DEFINE: ./outs/cascaded_structures.ipynb :name 'np' is not defined
+./outs/cascaded_structures.ipynb
+./outs/CaseStudy2.ipynb
+./outs/cdj-python_, _inleiding_3_lijsten.ipynb
+./outs/cdj-python_, _inleiding_4_controlestructuren.ipynb
+./outs/Cesar.ipynb
+DEFINE: ./outs/ceteiep_00_basics.ipynb :name 'a_n' is not defined
+./outs/ceteiep_00_basics.ipynb
+./outs/ceteiep_02_cartesian_polar_coordinates.ipynb
+./outs/ceteiep_04.ipynb
+./outs/ceteiep_07.ipynb
+./outs/ceteiep_08_polynomial_division.ipynb
+./outs/ceteiep_09_limits.ipynb
+DEFINE: ./outs/ceteiep_10_derivatives.ipynb :name 'sqrt' is not defined
+./outs/ceteiep_10_derivatives.ipynb
+./outs/ceteiep_14_integrals1.ipynb
+./outs/ceteiep_15_integrals2.ipynb
+./outs/ceteiep_18_linear_algebra3.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161005.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161007.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161026b.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161116.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161206.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_20161207.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_exercises_set1-solved.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_exercises_set2-solved.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_exercises_set3.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_exercises_set4.ipynb
+./outs/ceteiep_maths101_, _ceteiep_maths101_exercises_set5-solved.ipynb
+./outs/CFD_Class_, _TGV_Working.ipynb
+./outs/cfi2l_, _numpy.ipynb
+./outs/Ch17 - Scopes.ipynb
+DEFINE: ./outs/Ch26 - OOP The Big Picture.ipynb :name 'C2' is not defined
+./outs/Ch26 - OOP The Big Picture.ipynb
+./outs/Ch27 - Class Coding Basics.ipynb
+./outs/Ch28 - A More Realistic Example.ipynb
+./outs/Ch3.1-Markers and line styles.ipynb
+DEFINE: ./outs/Ch35 - Exception Objects.ipynb :name 'General' is not defined
+./outs/Ch35 - Exception Objects.ipynb
+DEFINE: ./outs/Ch36 - Designing With Exceptions.ipynb :name 'chars' is not defined
+./outs/Ch36 - Designing With Exceptions.ipynb
+DEFINE: ./outs/Ch39 - Decorators.ipynb :name 'decorator' is not defined
+./outs/Ch39 - Decorators.ipynb
+./outs/Ch4 - Introducing Python Object Types.ipynb
+./outs/Ch5 - Numeric Types.ipynb
+./outs/Ch5 - Redo.ipynb
+./outs/Ch6 - The Dynamic Typing Interlude.ipynb
+./outs/Ch7 - String Fundamentals.ipynb
+./outs/Ch8 - Lists and Dictionaries.ipynb
+./outs/Chained Comparision Operator.ipynb
+DEFINE: ./outs/Challenge003.ipynb :name 'offset' is not defined
+./outs/Challenge003.ipynb
+./outs/chapter1.ipynb
+./outs/Chapter2-homework.ipynb
+./outs/chap_11.ipynb
+./outs/chap_5.ipynb
+DEFINE: ./outs/chap_8.ipynb :name 'myprint' is not defined
+./outs/chap_8.ipynb
+./outs/charpter6-checkpoint.ipynb
+./outs/Checking Equations With SimPy.ipynb
+./outs/chicaca_, _charSort.ipynb
+./outs/chicaca_, _outs.ipynb
+DEFINE: ./outs/chicaca_, _romanToArab.ipynb :name 'romanToArab' is not defined
+./outs/chicaca_, _romanToArab.ipynb
+DEFINE: ./outs/chicaca_, _stringCompare.ipynb :name 'stringCompare' is not defined
+./outs/chicaca_, _stringCompare.ipynb
+DEFINE: ./outs/Chip-Design_, _Untitled.ipynb :name 'c' is not defined
+./outs/Chip-Design_, _Untitled.ipynb
+./outs/CHME4510_, _1 Getting Python.ipynb
+./outs/chol_decomp.ipynb
+DEFINE: ./outs/Clase.ipynb :name 'np' is not defined
+./outs/Clase.ipynb
+./outs/clases_python_, _Clase2.ipynb
+DEFINE: ./outs/class04.ipynb :name 'F1' is not defined
+./outs/class04.ipynb
+DEFINE: ./outs/class05estry.ipynb :name 'K' is not defined
+./outs/class05estry.ipynb
+DEFINE: ./outs/classification_, _homework1.ipynb :name 'task1' is not defined
+./outs/classification_, _homework1.ipynb
+./outs/Classifying-Chilean-Education-Survey_, _RandomForests.ipynb
+./outs/Classmethod.ipynb
+DEFINE: ./outs/closure_data.ipynb :name 'sort_priority' is not defined
+./outs/closure_data.ipynb
+./outs/CNN_, _test.ipynb
+./outs/Codecademy.ipynb
+./outs/CodeToy_, _ProjectEuler001.ipynb
+./outs/CodeToy_, _ProjectEuler002.ipynb
+DEFINE: ./outs/CodeToy_, _recursion001.ipynb :name 'recurSum' is not defined
+./outs/CodeToy_, _recursion001.ipynb
+./outs/CodeToy_, _shortestDistance.ipynb
+DEFINE: ./outs/CodeToy_, _SpiralArray.ipynb :name 'Y' is not defined
+./outs/CodeToy_, _SpiralArray.ipynb
+./outs/Codility - Brackets.ipynb
+./outs/Codility - CountDiv.ipynb
+./outs/Codility - Distinct.ipynb
+./outs/Codility - Fish.ipynb
+./outs/Codility - FrogJump.ipynb
+./outs/Codility - FrogRiverOne.ipynb
+./outs/Codility - MaxProductOfThree.ipynb
+./outs/Codility - MinAvgTwoSlice.ipynb
+./outs/Codility - MissingInteger.ipynb
+./outs/Codility - Nesting.ipynb
+./outs/Codility - NumberOfDiscIntersections.ipynb
+./outs/Codility - PermCheck.ipynb
+./outs/Codility - PermMissingElem.ipynb
+./outs/Codility - StoneWall.ipynb
+./outs/Codility - TapeEquilibrium.ipynb
+./outs/Codility - Triangle.ipynb
+./outs/Coding-with-Python_, _recommendations.ipynb
+./outs/col_n_crypopal_1.ipynb
+./outs/col_n_cryptopal_2.ipynb
+./outs/combinations.ipynb
+./outs/Combining DataFrames.ipynb
+./outs/comp-phys_, _Joining two capacitors.ipynb
+./outs/comp-phys_, _Untitled1.ipynb
+./outs/Complete-Python-Bootcamp_, _Objects and Data Structures Assessment Test-Solution.ipynb
+./outs/complex().ipynb
+DEFINE: ./outs/compositorbot_, _Adminka.ipynb :name 'messages' is not defined
+./outs/compositorbot_, _Adminka.ipynb
+DEFINE: ./outs/Comprehensions.ipynb :name 'math' is not defined
+./outs/Comprehensions.ipynb
+./outs/ComputationalPhoto_, _Class Notes.ipynb
+./outs/concatenate.ipynb
+./outs/Conditions.ipynb
+DEFINE: ./outs/conect_distances.ipynb :name 'ls' is not defined
+./outs/conect_distances.ipynb
+DEFINE: ./outs/conect_distances2.ipynb :name 'ls' is not defined
+./outs/conect_distances2.ipynb
+DEFINE: ./outs/Connected components of a graph.ipynb :name 'components' is not defined
+./outs/Connected components of a graph.ipynb
+DEFINE: ./outs/Construction-materials_, _Flooring.ipynb :name 'np' is not defined
+./outs/Construction-materials_, _Flooring.ipynb
+./outs/Construction-materials_, _Masonry.ipynb
+./outs/context_manager.ipynb
+./outs/Conversion.ipynb
+./outs/copying.ipynb
+./outs/Count Cloud (work in progress).ipynb
+./outs/coursera_ml-foundations_, _platform architecture .ipynb
+./outs/cov.ipynb
+./outs/cpw1_, _HI.ipynb
+DEFINE: ./outs/crackingInterview_, _Cracking the Coding Interview.ipynb :name 'Node' is not defined
+./outs/crackingInterview_, _Cracking the Coding Interview.ipynb
+./outs/Crawler_project_, _test2.ipynb
+./outs/Crawler_project_, _test3.ipynb
+DEFINE: ./outs/create_usegalaxy.org_dockerfile.ipynb :name 'xrange' is not defined
+./outs/create_usegalaxy.org_dockerfile.ipynb
+./outs/cs205-final-project_, _Report.ipynb
+DEFINE: ./outs/cs207labs_, _12_distribute_itgen_lab.ipynb :name 'count' is not defined
+./outs/cs207labs_, _12_distribute_itgen_lab.ipynb
+DEFINE: ./outs/cs207labs_, _15_distribute_ObjectsAndOverloadingLab.ipynb :name 'array' is not defined
+./outs/cs207labs_, _15_distribute_ObjectsAndOverloadingLab.ipynb
+DEFINE: ./outs/cs207labs_, _Concurrency2Lab.ipynb :name 'socket' is not defined
+./outs/cs207labs_, _Concurrency2Lab.ipynb
+DEFINE: ./outs/cs207labs_, _distribute_BasicAlgorithmsLab.ipynb :name 'fib_recursive' is not defined
+./outs/cs207labs_, _distribute_BasicAlgorithmsLab.ipynb
+DEFINE: ./outs/cs207labs_, _Lab03-distribute_BasicAlgorithmsLab.ipynb :name 'fib_recursive' is not defined
+./outs/cs207labs_, _Lab03-distribute_BasicAlgorithmsLab.ipynb
+DEFINE: ./outs/cs207labs_, _lab12_distribute_itgen_lab.ipynb :name 'count' is not defined
+./outs/cs207labs_, _lab12_distribute_itgen_lab.ipynb
+DEFINE: ./outs/cs207labs_, _Lab15-distribute_ObjectsAndOverloadingLab.ipynb :name 'array' is not defined
+./outs/cs207labs_, _Lab15-distribute_ObjectsAndOverloadingLab.ipynb
+DEFINE: ./outs/cs207labs_, _lab15_distribute_ObjectsAndOverloadingLab.ipynb :name 'array' is not defined
+./outs/cs207labs_, _lab15_distribute_ObjectsAndOverloadingLab.ipynb
+./outs/cs207project_, _Lab7-jeewon-hwang.ipynb
+DEFINE: ./outs/cs281-final-project_, _dirichlet experiment.ipynb :name 'np' is not defined
+./outs/cs281-final-project_, _dirichlet experiment.ipynb
+DEFINE: ./outs/cse6040-ipynbs_, _04--comps-gens-sparse.ipynb :name 'messages' is not defined
+./outs/cse6040-ipynbs_, _04--comps-gens-sparse.ipynb
+DEFINE: ./outs/cse6040-ipynbs_, _05a--a-priori-wrap-up.ipynb :name 'defaultdict' is not defined
+./outs/cse6040-ipynbs_, _05a--a-priori-wrap-up.ipynb
+DEFINE: ./outs/cse6040-ipynbs_, _hw2.ipynb :name 'pandas' is not defined
+./outs/cse6040-ipynbs_, _hw2.ipynb
+./outs/customOperators.ipynb
+DEFINE: ./outs/cx4230-ipynbs_, _19--pseudorandom-lcg.ipynb :name 'log' is not defined
+./outs/cx4230-ipynbs_, _19--pseudorandom-lcg.ipynb
+./outs/czechitas-python_, _python_workshop_cz_exercices.ipynb
+./outs/da-programming-1_, _week_01.ipynb
+./outs/da-programming-1_, _week_01_oefeningen_uitwerkingen.ipynb
+./outs/da-programming-1_, _week_02.ipynb
+./outs/da-programming-1_, _week_02_extra.ipynb
+./outs/da-programming-1_, _week_03.ipynb
+./outs/da-programming-1_, _week_03_extra.ipynb
+./outs/da-programming-1_, _week_07.ipynb
+DEFINE: ./outs/da-programming-1_, _week_07_oefeningen-uitwerkingen.ipynb :name 'dice_combinations' is not defined
+./outs/da-programming-1_, _week_07_oefeningen-uitwerkingen.ipynb
+./outs/da-programming-1_, _week_08.ipynb
+./outs/DAT19-HW3-Assignment.ipynb
+./outs/Data-science-2016-Zillow-neighborhoods.ipynb
+DEFINE: ./outs/data-science-from-scratch_, _Chapter 7 - Hypothesis and Inference.ipynb :name 'math' is not defined
+./outs/data-science-from-scratch_, _Chapter 7 - Hypothesis and Inference.ipynb
+DEFINE: ./outs/data-testing-tutorial_, _bonus-3-file-integrity.ipynb :name 'sha256' is not defined
+./outs/data-testing-tutorial_, _bonus-3-file-integrity.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 10 - Array Transposition.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 11 - Universal Array Functions.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 14 - Series.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 18 - Drop Entry.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 23 - Missing Data.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 29 - Merge.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 31 - Concatenate.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 32 - Combine Data Frames .ipynb
+./outs/DataAnalyticsLearning_, _Lecture 33 - Reshaping.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 35 - Duplicates in Data Frames.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 36 - Mapping.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 37  - Replace.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 38 - Renaming index.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 39 - Binning.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 41 - Permutation.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 46 - Cross tabulation.ipynb
+./outs/DataAnalyticsLearning_, _Lecture 7 - Creating Arrays.ipynb
+./outs/datasci-from-scratch-notes_, _Ch04.ipynb
+./outs/datascience-ahha.ipynb
+./outs/datasciencecoursera_, _k-means CREO data.ipynb
+DEFINE: ./outs/DataScienceProjects_, _Test_Stuff.ipynb :name 'create_dict_letters' is not defined
+./outs/DataScienceProjects_, _Test_Stuff.ipynb
+DEFINE: ./outs/DataScienceProjects_, _Untitled.ipynb :name 'board' is not defined
+./outs/DataScienceProjects_, _Untitled.ipynb
+./outs/dataScience_, _seattleCrime.ipynb
+./outs/Dataviz-with-python_, _Dataviz for dev builder.ipynb
+./outs/data_science_tools_, _Play.ipynb
+./outs/Dato_Experiment_, _Dato Spark Integration.ipynb
+./outs/Dato_Experiment_, _ODBC Integration .ipynb
+DEFINE: ./outs/Day 11 Corporate Policy.ipynb :name 'pw_policy_1' is not defined
+./outs/Day 11 Corporate Policy.ipynb
+DEFINE: ./outs/Day 9 All in a Single Night.ipynb :name 're' is not defined
+./outs/Day 9 All in a Single Night.ipynb
+DEFINE: ./outs/Day07.ipynb :name 'check_abba' is not defined
+./outs/Day07.ipynb
+DEFINE: ./outs/Day08.ipynb :name 'DISPLAY_COLS' is not defined
+./outs/Day08.ipynb
+./outs/Day1 Exercises.ipynb
+./outs/Day1Homework.ipynb
+./outs/Day3Homework.ipynb
+./outs/Day4Homework.ipynb
+./outs/Day5Homework.ipynb
+DEFINE: ./outs/Day_4_Binomial_Distribution.ipynb :name 'binomial_dist' is not defined
+./outs/Day_4_Binomial_Distribution.ipynb
+./outs/Day_4_Geometric_Distribution_I.ipynb
+DEFINE: ./outs/Day_5_Normal_Distribution_II.ipynb :name 'math' is not defined
+./outs/Day_5_Normal_Distribution_II.ipynb
+./outs/Day_7_Pearson_Correlation_Coefficient_I.ipynb
+./outs/dbdapy_, _ch03.ipynb
+DEFINE: ./outs/Deco.ipynb :name 'f' is not defined
+./outs/Deco.ipynb
+DEFINE: ./outs/Decorators and generators.ipynb :name 'enable_tracing' is not defined
+./outs/Decorators and generators.ipynb
+./outs/deep learning.ipynb
+./outs/Defining rates and yields and balancing equations.ipynb
+./outs/Degree of reduction balances.ipynb
+./outs/deletion_even.ipynb
+./outs/denzel.ipynb
+./outs/deque_and_popleft.ipynb
+DEFINE: ./outs/Derivadas.ipynb :name 'f' is not defined
+./outs/Derivadas.ipynb
+./outs/Description.ipynb
+./outs/deser_sztuka_robienia_wykresow.ipynb
+./outs/determinante.ipynb
+./outs/DFS_Stacking_NBA.ipynb
+DEFINE: ./outs/dh-lesson6-solutions.ipynb :name 'question2' is not defined
+./outs/dh-lesson6-solutions.ipynb
+./outs/diameter-apl.ipynb
+./outs/Dictionaries.ipynb
+DEFINE: ./outs/Digits Multiplication.ipynb :name 'f' is not defined
+./outs/Digits Multiplication.ipynb
+./outs/direct_forms.ipynb
+DEFINE: ./outs/Discharging_capacitors.ipynb :name 'R2' is not defined
+./outs/Discharging_capacitors.ipynb
+DEFINE: ./outs/Discovering the Dirichlet.ipynb :name 'ss' is not defined
+./outs/Discovering the Dirichlet.ipynb
+./outs/Displaying all the C++ codes in IPython notebook.ipynb
+DEFINE: ./outs/distribute_BasicAlgorithmsLab.ipynb :name 'fib_recursive' is not defined
+./outs/distribute_BasicAlgorithmsLab.ipynb
+DEFINE: ./outs/distribute_itgen_lab.ipynb :name 'count' is not defined
+./outs/distribute_itgen_lab.ipynb
+./outs/distributions.ipynb
+./outs/Divers_, _FormTestrecettes.ipynb
+./outs/DI_, _DI_Q1.ipynb
+DEFINE: ./outs/docker-jupyter_, _HighLevelGraphicsJupyter.ipynb :name 'TopoFlowMap' is not defined
+./outs/docker-jupyter_, _HighLevelGraphicsJupyter.ipynb
+./outs/docs.ipynb
+DEFINE: ./outs/docstring.ipynb :name 'datetime' is not defined
+./outs/docstring.ipynb
+DEFINE: ./outs/Door 19b.ipynb :name 'Node' is not defined
+./outs/Door 19b.ipynb
+DEFINE: ./outs/double_residues_analysis.ipynb :name 'ls' is not defined
+./outs/double_residues_analysis.ipynb
+./outs/download-file-from-url.ipynb
+DEFINE: ./outs/downloader.ipynb :name 'urllib' is not defined
+./outs/downloader.ipynb
+./outs/ds-lesson3_, _markov.ipynb
+./outs/dsprt_, _Untitled.ipynb
+./outs/Duplicates_in_DataFrames.ipynb
+./outs/DV04-Assignment-02.ipynb
+./outs/DW06_GroupBy.ipynb
+./outs/dynamic_default_arguments.ipynb
+./outs/DynamiquesMultiagents.ipynb
+./outs/dzien3_czesc1_anatomia_data_frame.ipynb
+DEFINE: ./outs/EC3389 Assignment 2 - James LeDoux.ipynb :name 'np' is not defined
+./outs/EC3389 Assignment 2 - James LeDoux.ipynb
+./outs/Econometrics_, _Econometrics.ipynb
+./outs/Ecuaciones Algebraicas Lineales.ipynb
+./outs/EddieFarah-FinalProject2.ipynb
+./outs/edit_files_final.ipynb
+DEFINE: ./outs/edu_, _Contract_simulation.ipynb :name 'np' is not defined
+./outs/edu_, _Contract_simulation.ipynb
+DEFINE: ./outs/Elastictest.ipynb :name 'scipy' is not defined
+./outs/Elastictest.ipynb
+./outs/elections-2015_, _Argentina.ipynb
+DEFINE: ./outs/elections-2015_, _Israel 2.ipynb :name 'pd' is not defined
+./outs/elections-2015_, _Israel 2.ipynb
+DEFINE: ./outs/element_analysis.ipynb :name 'ls' is not defined
+./outs/element_analysis.ipynb
+DEFINE: ./outs/enhancer_peak_counts_across_conditions.ipynb :name 'pd' is not defined
+./outs/enhancer_peak_counts_across_conditions.ipynb
+DEFINE: ./outs/ensemble_averages.ipynb :name 'np' is not defined
+./outs/ensemble_averages.ipynb
+DEFINE: ./outs/epistemologica_, _PunchcardOperations.ipynb :name 're' is not defined
+./outs/epistemologica_, _PunchcardOperations.ipynb
+DEFINE: ./outs/erranticpoetry_, _Text Outputs.ipynb :name 'randint' is not defined
+./outs/erranticpoetry_, _Text Outputs.ipynb
+./outs/errors_in_numerical_methods.ipynb
+./outs/estructuras_secuenciales.ipynb
+DEFINE: ./outs/euclidean.ipynb :name 'math' is not defined
+./outs/euclidean.ipynb
+DEFINE: ./outs/Euler_, _Problem_10.ipynb :name 'p' is not defined
+./outs/Euler_, _Problem_10.ipynb
+DEFINE: ./outs/Euler_, _Problem_11.ipynb :name 'grid' is not defined
+./outs/Euler_, _Problem_11.ipynb
+DEFINE: ./outs/Euler_, _Problem_12.ipynb :name 'triangleNumber' is not defined
+./outs/Euler_, _Problem_12.ipynb
+./outs/Euler_, _Problem_1_100_doors.ipynb
+DEFINE: ./outs/Euler_, _Problem_2.ipynb :name 'fibs' is not defined
+./outs/Euler_, _Problem_2.ipynb
+DEFINE: ./outs/Euler_, _Problem_3.ipynb :name 'sqrt' is not defined
+./outs/Euler_, _Problem_3.ipynb
+DEFINE: ./outs/Euler_, _Problem_4.ipynb :name 'l' is not defined
+./outs/Euler_, _Problem_4.ipynb
+./outs/Euler_, _Problem_5.ipynb
+./outs/Euler_, _Problem_6.ipynb
+./outs/Euler_, _Problem_8.ipynb
+./outs/Euler_, _Problem_9.ipynb
+./outs/Even the last.ipynb
+./outs/everything-with-python_, _python_tricks.ipynb
+./outs/ex1.ipynb
+./outs/ex2.ipynb
+./outs/ex3.ipynb
+./outs/ex4.ipynb
